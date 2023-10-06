@@ -1,3 +1,0 @@
-os
-python-dotenv
-langchain
